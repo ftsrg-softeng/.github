@@ -7,3 +7,5 @@ Az anyagok egy része csak bejelentkezés után érhető el.
 # Software Engineering - VIMIAB04
 
 This GitHub organization belongs to the Software Engineering course at BME.
+
+Some of the materials is only available after login.
